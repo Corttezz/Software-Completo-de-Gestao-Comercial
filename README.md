@@ -18,3 +18,8 @@ Redes sociais do Professor:<p align="left">
 
 # Projeto Completo
 ## Parte 1 - Conexão com Banco de Dados, Login e Permissões do Usuário
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106662629/203442815-5e0c0779-aab0-4709-bd4e-834c1baa5375.png">
+</div>
+- Ao inicializar o programa, se estivar conectado ao banco de dados MySQL, um ícone será mostrado no canto inferior esquerdo.
