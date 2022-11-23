@@ -18,8 +18,23 @@ Redes sociais do Professor:<p align="left">
 
 # Projeto Completo
 ## Parte 1 - Conexão com Banco de Dados, Login e Permissões do Usuário
-
+- Ao inicializar o programa, se estivar conectado ao banco de dados MySQL, um ícone será mostrado no canto inferior esquerdo.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/106662629/203442815-5e0c0779-aab0-4709-bd4e-834c1baa5375.png">
 </div>
-- Ao inicializar o programa, se estivar conectado ao banco de dados MySQL, um ícone será mostrado no canto inferior esquerdo.
+
+- Após efetuado o login, a tela principal do Software será exibida, constando na direita a data e o tipo de permissão que o usuário tem.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106662629/203443805-c453d0ff-93bf-42c2-a543-eb498b613c6c.png" width="600px">
+</div>
+
+- Dependendo do perfil logado, o usuário poderá ou não ter acesso a algumas funcionalidades do programa.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106662629/203443905-7ecd8e2a-6edc-45a2-89a3-c7d5d71adf95.png"width="400px">
+<img src="https://user-images.githubusercontent.com/106662629/203443931-14ab21ab-da3f-47a4-829b-72b8c8190d79.png"width="400px">
+</div>
+
+## Parte 2 -
+
