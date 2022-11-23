@@ -36,5 +36,29 @@ Redes sociais do Professor:<p align="left">
 <img src="https://user-images.githubusercontent.com/106662629/203443931-14ab21ab-da3f-47a4-829b-72b8c8190d79.png"width="400px">
 </div>
 
-## Parte 2 -
+## Parte 2 - Tela de Usuários
+
+- Caso o usuário tenha as permissões necessárias para acessar esse recurso do programa, ele poderá adicionar, remover, consultar e modificar usuários do sistema (CRUD).
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106662629/203445331-835ee8e3-4847-48c1-abe1-c8fe27539c88.png" width="600px">
+</div>
+
+## Parte 3 - Tela de Clientes
+- Nesse caso, se o usuário ter acesso as permissões necessárias para acessar esse recurso do programa, ele poderá adicionar, remover, consultar e modificar CLIENTES do sistema (CRID).
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106662629/203447196-c4fd6201-a88b-428e-a39c-9597d77c1bdf.png" width="600px">
+</div>
+
+- Essa tela tem um recurso de pesquisa avançado, onde na medida que o usuário for digitando o nome para realizar a consulta, ela se atualiza com os dados automaticamente, sendo possível selecionar o cliente desejado diretamente.
+
+## Parte 4 - Tela de Orçamento de Serviços
+- Caso o usuário tenha as permissões necessárias para acessar esse recurso do programa, ele poderá adicionar, remover, consultar e modificar Orçamentos de Serviços do sistema (CRUD).
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/106662629/203447251-1956f6a2-3837-4f36-8b33-17374ac39516.png" width="600px">
+</div>
+
+- Essa tela conta também com a funcionalidade de pesquisa de Clientes por meio de uma tabela, data precisa gerada a partir da emissão da OS, possiblidade de seleção da situação do produto, possibilidade de imprimir e gerar um arquivo da Ordem de Serviço do cliente e como dito antes conta também com todas funcionalidades do CRUD, se relacionando diretamente com o bando de dados. 
+
+
 
