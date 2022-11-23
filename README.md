@@ -60,5 +60,18 @@ Redes sociais do Professor:<p align="left">
 
 - Essa tela conta também com a funcionalidade de pesquisa de Clientes por meio de uma tabela, data precisa gerada a partir da emissão da OS, possiblidade de seleção da situação do produto, possibilidade de imprimir e gerar um arquivo da Ordem de Serviço do cliente e como dito antes conta também com todas funcionalidades do CRUD, se relacionando diretamente com o bando de dados. 
 
+### Bibliotecas Utilizadas:
+[atxy2k](http://atxy2k.github.io/RestrictedTextField/)
+
+[driver MySQL](https://dev.mysql.com/downloads/connector/j/)
+
+[rs2xml](https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
+### Ferramentas Utilizadas:
+[openJDK 8 (LTS)](https://adoptopenjdk.net/)
+
+[NetBeans IDE 8.2](https://netbeans-ide.informer.com/8.2/)
+
+[iReport-5.6.0](https://sourceforge.net/projects/ireport/)
+
 
 
